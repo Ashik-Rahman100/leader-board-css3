@@ -78,6 +78,7 @@ Top blog styles
     text-decoration: none;
     font-size: 16px;
     color: #562EFF;
+    
 }
 /* ------------------
        courses style
@@ -110,7 +111,6 @@ Top blog styles
 }
 .fa-star.empty{
     color: #AEAEAE;
-    
 }
 .course-duration{
     background-color: #FEE5DF;
